@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nursat, 1st year Computer Science student at Nazarbayev University
+- 👋 Hi, I’m Nursat, 2nd year Computer Science student at Nazarbayev University
 - 👀 I’m interested in building applications using .NET, React, and TypeScript
 - 🌱 I’m currently broadening my knowledge in .NET Architecture
 
